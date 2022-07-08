@@ -1,2 +1,1 @@
-# fluffy-fortnight
-This is my Object-oriented programming lab
+Các bài tập về LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - University of Information Technology
